@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Checkpoint
+  - Wall
+  - TriggerON
+  - TriggerOFF
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Stars 0
+    uniqueID: 1121717021
+    locked: 0
+  - name: Back L 1
+    uniqueID: 3251019929
+    locked: 0
+  - name: Back L 2
+    uniqueID: 332740365
+    locked: 0
+  - name: Back L 3
+    uniqueID: 2123633013
+    locked: 0
+  - name: stars
+    uniqueID: 3703294633
+    locked: 0
+  - name: ship
+    uniqueID: 1439109813
+    locked: 0
+  - name: beyond ship
+    uniqueID: 2569637645
+    locked: 0
+  - name: Background 0
+    uniqueID: 1714453311
+    locked: 0
+  - name: background
+    uniqueID: 632576057
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back Player
+    uniqueID: 3830557153
+    locked: 0
+  - name: player
+    uniqueID: 3794692527
+    locked: 0
+  - name: Beyond player
+    uniqueID: 3281119415
+    locked: 0
+  - name: obstacle
+    uniqueID: 1422158825
+    locked: 0
+  - name: Beyond Obstacle
+    uniqueID: 3768952125
+    locked: 0
+  - name: For Ground
+    uniqueID: 878583215
+    locked: 0
+  - name: Fore Fore Ground
+    uniqueID: 1690918083
+    locked: 0
